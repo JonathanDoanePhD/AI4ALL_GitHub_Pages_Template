@@ -114,7 +114,7 @@ a {
   color: $header-heading-color; //
   text-align: center;
   background-color: #26bdc4; // $header-bg-color;
-  background-image: linear-gradient(0deg, #876baf, #26bdc4); // (120deg, $header-bg-color-secondary, $header-bg-color);
+  background-image: linear-gradient(90deg, #876baf, #26bdc4); // (120deg, $header-bg-color-secondary, $header-bg-color);
 
   @include large {
     padding: 5rem 6rem;
