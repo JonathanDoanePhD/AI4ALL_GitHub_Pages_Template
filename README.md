@@ -1,18 +1,38 @@
 # (UPDATE IN README.md) Project Title
 
 (UPDATE IN README.md)
-Briefly describe the purpose/result(s) of your project, the skills you applied, the dataset you used, and the Apply AI program.
+Briefly describe the purpose/result(s) of your project, the skills you applied, and the Apply AI program.
+<br>
+EXAMPLE:
 
-(E.g. Identified three biases of ChatGPT applying the Python and Data Analysis to the Kaggle data within the confines of AI4ALL's Apply AI program.)
+Uncovered and meticulously analyzed three distinct biases present in ChatGPT, employing advanced Python techniques and data analysis methodologies, all within AI4ALL's cutting-edge Apply AI program.
 
 
-## Project Overview
+## Problem Statement
 
-[Provide a brief introduction to your project. Explain the purpose and objectives of the project.]
+(UPDATE IN README.md)
+Describe the motivation for this project, why it is relevant and what its impacts are.
+<br>
+EXAMPLE:
 
-## Demo
+Given the substantial daily output of responses, the identification and mitigation of ChatGPT's biases become critical, safeguarding both the multitude of users and the far-reaching consequences they may influence.
 
-[Include a link or instructions to see a live demo of your project in action, if applicable.]
+## Key Results
+
+(UPDATE IN README.md)
+Enumerate the main results of this project in a list and describe them.
+<br>
+EXAMPLE:
+
+1. Recorded over 1,000 prompts and responses from ChatGPT
+
+Engineered a Python script to generate prompts and elecit responses from ChatGPT, utilizing pandas to collect the data.
+
+2. Identified three biases in ChatGPT's responses
+
+When prompted for solutions to this specific relevant crisis, nearly 80% of ChatGPT's responses promoted a certain world view.
+
+
 
 ## Installation
 
@@ -45,4 +65,3 @@ Briefly describe the purpose/result(s) of your project, the skills you applied, 
 ## License
 
 [Specify the license under which your project is released. You can use a license badge or provide a link to the license file.]
-
