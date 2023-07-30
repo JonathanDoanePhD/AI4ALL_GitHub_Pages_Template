@@ -1,21 +1,11 @@
-# Project Title (UPDATE IN README.md)
+# (UPDATE IN README.md) Project Title
 
-[Include a clear and concise title for your project. Choose something descriptive and meaningful.]
+(UPDATE IN README.md)
+Briefly describe the purpose/result(s) of your project, the skills you applied, the dataset you used, and the Apply AI program.
+(E.g. Identified three biases of ChatGPT applying the Python and Data Analysis to the Kaggle data within the confines of AI4ALL's Apply AI program.)
 
-## Table of Contents
 
-- [Overview](#overview)
-- [Demo](#demo)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Data Sources](#data-sources)
-- [Technologies Used](#technologies-used)
-- [Key Features](#key-features)
-- [Contributing](#contributing)
-- [Authors](#authors)
-- [License](#license)
-
-## Overview
+## Project Overview
 
 [Provide a brief introduction to your project. Explain the purpose and objectives of the project.]
 
