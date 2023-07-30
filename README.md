@@ -1,3 +1,7 @@
+# Project Title
+
+[Include a clear and concise title for your project. Choose something descriptive and meaningful.]
+
 ## Table of Contents
 
 - [Overview](#overview)
