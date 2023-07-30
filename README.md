@@ -34,6 +34,10 @@ EXAMPLE:
 ## Methodologies
 
 (UPDATE IN README.md)
+<br>
+EXAMPLE:
+
+To accomplish this, we utilized the OpenAI API to interact with ChatGPT, and we designed a custom Python script to generate diverse prompts and collect corresponding responses. The data was then processed and analyzed using pandas, enabling us to detect patterns and biases in the AI model's outputs.
 Engineered a Python script to generate over 1,000 prompts and elicit their responses from ChatGPT, utilizing pandas to collect the data. When prompted for solutions to this specific relevant crisis, nearly 80% of ChatGPT's responses promoted a certain worldview.
 
 
@@ -44,7 +48,7 @@ Include any relevant data sources that were used in your project.
 <br>
 EXAMPLE:
 
-Kaggle Datasets: [Link to Kaggle Dataset](www.example.com)
+Kaggle Datasets: [Link to Kaggle Dataset](https://www.kaggle.com/datasets)
 
 ## Technologies Used
 
