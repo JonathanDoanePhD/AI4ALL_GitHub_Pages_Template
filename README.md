@@ -9,7 +9,7 @@ A fill-in project documentation template created for AI4ALL learners. It gives s
 3. Link your evidence, code, data sources, and collaborators, and distinguish measured results from aspirations.
 4. Remove any placeholder personal details before publishing.
 
-The [project template and prompts](assets/) are intended as a starting point. A [separate illustrative example](https://github.com/JonathanDoanePhD/AI4ALL_GitHub_Pages_Example) shows a filled layout using fictional content. The original editable template text follows below for compatibility with existing student forks.
+The [project template and prompts](assets/) are intended as a starting point. The editable section prompts below can be adapted for a real project. Examples should use clearly labeled fictional results and contributors.
 
 ---
 
